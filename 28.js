@@ -1,0 +1,3 @@
+//Imprimir a mensagem: "É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER".
+
+console.log('Imprimir a mensagem: "É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER".')
