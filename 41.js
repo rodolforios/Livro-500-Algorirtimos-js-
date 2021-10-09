@@ -10,4 +10,3 @@ let num4 = Number(readline.question('Digite um número: ') * 4);
 
 let medPon = (num1 + num2 + num3 + num4) / 10;
 console.log(`A média ponderada é: ${medPon}`)
-console.log('teste2')
